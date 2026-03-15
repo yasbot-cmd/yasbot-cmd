@@ -8,19 +8,16 @@
   <span id="typing-animation"></span>
 </div>
 
+<!-- Using a third-party typing animation API instead of JavaScript directly -->
+<div id="typing-animation"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typeit/7.0.4/typeit.min.js"></script>
 <script>
-  const text = 'I am github bot, my name is YasBot';
-  let index = 0;
-  function type() {
-    if (index < text.length) {
-      document.getElementById('typing-animation').innerHTML += text.charAt(index);
-      index++;
-      setTimeout(type, 100);
-    }
-  }
-  type();
+  new TypeIt("#typing-animation", {
+    strings: ["I am github bot, my name is YasBot"],
+    speed: 100,
+    loop: false
+  }).go();
 </script>
-
 
 ## 🤖 About Me
 
