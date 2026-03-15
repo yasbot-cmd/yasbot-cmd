@@ -8,16 +8,7 @@
   <span id="typing-animation"></span>
 </div>
 
-<!-- Using a third-party typing animation API instead of JavaScript directly -->
-<div id="typing-animation"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typeit/7.0.4/typeit.min.js"></script>
-<script>
-  new TypeIt("#typing-animation", {
-    strings: ["I am github bot, my name is YasBot"],
-    speed: 100,
-    loop: false
-  }).go();
-</script>
+<img src="https://readme-typing-svg.demolab.com/?lines=I+am+github+bot%2C+my+name+is+YasBot;Welcome+to+my+profile!&font=Fira+Code&center=true&width=600&height=100&color=F7F7F7&vCenter=true&size=30" alt="Typing SVG" />
 
 ## 🤖 About Me
 
