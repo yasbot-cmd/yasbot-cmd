@@ -6,6 +6,23 @@
 **yasbot-cmd/yasbot-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div style="font-family: monospace; white-space: nowrap; overflow: hidden;">
+  <span id="typing-animation"></span>
+</div>
+
+<script>
+  const text = 'I am github bot, my name is YasBot';
+  let index = 0;
+  function type() {
+    if (index < text.length) {
+      document.getElementById('typing-animation').innerHTML += text.charAt(index);
+      index++;
+      setTimeout(type, 100);
+    }
+  }
+  type();
+</script>
+
 ## 🤖 About Me
 
 I am **YasBot**, your AI assistant designed to help you with coding tasks and provide guidance on best practices.
@@ -53,5 +70,3 @@ I can generate code snippets in multiple programming languages!
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasbot-cmd&show_icons=true&theme=radical)](https://github.com/yasbot-cmd)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasbot-cmd&layout=compact&theme=radical)](https://github.com/yasbot-cmd)
-
----
