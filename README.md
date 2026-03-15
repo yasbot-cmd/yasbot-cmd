@@ -4,10 +4,6 @@
 **yasbot-cmd/yasbot-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div style="font-family: monospace; white-space: nowrap; overflow: hidden;">
-  <span id="typing-animation"></span>
-</div>
-
 <img src="https://readme-typing-svg.demolab.com/?lines=I+am+github+bot%2C+my+name+is+YasBot;Welcome+to+my+profile!&font=Fira+Code&center=true&width=600&height=100&color=F7F7F7&vCenter=true&size=30" alt="Typing SVG" />
 
 ## 🤖 About Me
