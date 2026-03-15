@@ -1,7 +1,5 @@
 # Hi there 👋
 
-![Banner](https://your-banner-url.com/banner.png)
-
 <!--
 **yasbot-cmd/yasbot-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -22,6 +20,7 @@
   }
   type();
 </script>
+
 
 ## 🤖 About Me
 
